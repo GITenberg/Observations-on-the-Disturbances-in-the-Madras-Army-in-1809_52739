@@ -1,0 +1,28 @@
+_repo: Observations-on-the-Disturbances-in-the-Madras-Army-in-1809_52739
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Malcolm, John
+    birthdate: 1769
+    deathdate: 1833
+    gutenberg_agent_id: '46717'
+    url: http://www.gutenberg.org/2009/agents/46717
+description: ''
+gutenberg_issued: '2016-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52739'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Malcolm, John, 1769-1833'
+- !lcc 'DS'
+- !lcsh 'India. Army -- History'
+- GITenberg
+tableOfContents: Pt. I. Observations on the causes and progress of the disturbances
+  in the Madras army -- Pt. II. A narrative of the conduct of Lieut.-Colonel Malcolm
+  during the disturbances in the Madras army.
+title: Observations on the Disturbances in the Madras Army in 1809
+url: http://www.gutenberg.org/ebooks/52739
