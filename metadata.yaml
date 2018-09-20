@@ -1,5 +1,8 @@
 _repo: Observations-on-the-Disturbances-in-the-Madras-Army-in-1809_52739
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 52739-h/images/cover.jpg
 creator:
   author:
     agent_name: Malcolm, John
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '46717'
     url: http://www.gutenberg.org/2009/agents/46717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52739#Observations-on-the-Disturbances-in-the-Madras-Army-in-1809
 gutenberg_issued: '2016-08-06'
 gutenberg_type: Text
 identifiers:
